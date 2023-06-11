@@ -36,7 +36,7 @@
         Overall, SocioGram is an attempt in building an application for users to connect with others, fostering a vibrant and engaging community.
         <br />
         <br />
-        <p align ="center"><a href="https://socio-gram-iota.vercel.app/ ><strong> Click here to View Demo</strong></a></p>
+        <p align ="center"><a href="https://socio-gram-iota.vercel.app/"><strong> Click here to View Demo</strong></a></p>
         <br />
         <br />
   </p>
