@@ -29,17 +29,15 @@
 <br />
 <div align="center">
   <a href="https://github.com/sanmitha-shetty/SocioGram">
-    <img src="/readme_images/logo.png" alt="Logo" width="180" height="180">
+    <img src="/readme_images/logo.png" alt="Logo" width="540" height="92">
   </a>
 
 <h3 align="center">SocioGram</h3>
 
-  <p align="center">
-        This project is a fullstack responsive social media application built using modern technologies such as MongoDB, Express.js, React.js, and Node.js. It provides users with a platform to connect, share, and interact with each other through posts, and likes.
+  <p align="justify">
+        This project is a fullstack responsive social media application built using modern technologies such as MongoDB, Express.js, React.js, and Node.js. It provides users with a platform to connect, share, and interact with each other through posts, and likes. With user registration and authentication features, users can  create accounts, log in, and log out. The application also offers user profiles where individuals can customize their personal information, add profile pictures, and view their own posts.
         <br />
-        With user registration and authentication features, users can  create accounts, log in, and log out. The application also offers user profiles where individuals can customize their personal information, add profile pictures, and view their own posts. The posts feed presents posts from friends and the wider community, allowing users to stay updated with the latest activities. Users can create various types of posts, including text and images.
-        <br />
-        The social aspect is emphasized through features such as liking and commenting on posts, adding friends facilitate connections between users, expanding their social network within the platform. The application's responsive design ensures a seamless user experience across different devices and screen sizes.
+        The posts feed presents posts from friends and the wider community, allowing users to stay updated with the latest activities. Users can create various types of posts, including text and images. The social aspect is emphasized through features such as liking and commenting on posts, adding friends facilitate connections between users, expanding their social network within the platform. The application's responsive design ensures a seamless user experience across different devices and screen sizes.
         <br />
         Overall, SocioGram is an attempt in building an application for users to connect with others, fostering a vibrant and engaging community.
         <br />
@@ -72,12 +70,11 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li>
+      <a href="#features">Features</a>
+    </li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -159,8 +156,9 @@ npm run start
 - Post feed
 - Post Creation
 - Add Friends
-- Likes
+- Post Likes
 - Responsive Design
+- Dark and Light mode
 - Image upload using React Dropzone
 - Form validation using Formik
 - Configure ruoutes using React Router
