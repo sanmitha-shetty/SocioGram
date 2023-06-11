@@ -41,15 +41,10 @@
         <br />
         Overall, SocioGram is an attempt in building an application for users to connect with others, fostering a vibrant and engaging community.
         <br />
-        <a href="https://github.com/sanmitha-shetty/SocioGram"><strong>Explore the docs »</strong></a>
+        <br />
+        <p align ="center"><a href="socio-gram-iota.vercel.app" ><strong> Click here to View Demo</strong></a></p>
         <br />
         <br />
-        <a href="https://github.com/sanmitha-shetty/SocioGram">View Demo</a>
-        ·
-        <a href="https://github.com/sanmitha-shetty/SocioGram/issues">Report Bug</a>
-        ·
-        <a href="https://github.com/sanmitha-shetty/SocioGram/issues">Request Feature</a>
-
   </p>
 </div>
 
