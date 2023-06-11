@@ -29,7 +29,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/sanmitha-shetty/SocioGram">
-    <img src="/readme_images/logo.png" alt="Logo" width="80" height="80">
+    <img src="/readme_images/logo.png" alt="Logo" width="180" height="180">
   </a>
 
 <h3 align="center">SocioGram</h3>
@@ -93,9 +93,9 @@
 
 <ul>
   <li><a href="https://expressjs.com/">Express.js </a></li>
-  <li><a href="https://reactjs.org/">React</a></li>
+  <li><a href="https://reactjs.org/">React.js</a></li>
   <li><a href="https://www.mongodb.com/">MongoDB</a></li>
-  <li><a href="https://nodejs.org/en/">Node</a></li>
+  <li><a href="https://nodejs.org/en/">Node.js</a></li>
   <li><a href="https://reactrouter.com/en/main">React Router</a></li>
   <li><a href="https://mui.com/">Material UI</a></li>
   <li><a href="https://redux-toolkit.js.org/">Redux Toolkit</a></li>
